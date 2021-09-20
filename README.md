@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Carlos 👋
 
+- 🌱 I’m currently learning Python
 <!--
 **carlosmora01/carlosmora01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
